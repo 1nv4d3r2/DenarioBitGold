@@ -2,6 +2,10 @@
 
 DenarioBitGold(DBG) uma ICO criada na blockchain Ethereum na (Rede de teste Ropsten)
 
+Endereço do contrato:
+0xc6b35b0c499731365bfd3caaecacceb5bf7ef45f
+
+
 // ----------------------------------------------------------------------------
 // 'Denario' token contract
 //
